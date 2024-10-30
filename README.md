@@ -14,7 +14,6 @@ No Browser Needed
 
 Easily Customizable  
 >  Update the location in the script for your preferred city.
-Requirements``
 
 
 ## Installation 🔧
