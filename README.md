@@ -26,7 +26,7 @@ git clone https://github.com/ShiiiivanshSingh/QuickWeather
 ```
 Navigate to the repository folder:
 ```bash
-cd QuickWeather
+cd weather.bat
 ```
 --- 
 
