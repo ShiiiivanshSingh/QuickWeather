@@ -31,6 +31,7 @@ cd weather.bat
 --- 
 
 ## Example Output:
+
 ![alt text](ExampleOutput.png)
 
 ---
